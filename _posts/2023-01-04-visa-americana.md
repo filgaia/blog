@@ -1,6 +1,8 @@
 ---
 title: "Mi experiencia solicitando la Visa Americana"
 date: 2023-01-04
+header:
+  image: /assets/images/post.jpg
 ---
 
 Empecemos con lo importante: Me negaron la visa americana. Ahora que sabes que este texto no te va a indicar como obtener la visa americana, quiero contarte mi experiencia para que seas tu quien decida si quiere hacer este proceso.
