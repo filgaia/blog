@@ -3,3 +3,4 @@ title: Filgaia
 author: A. F. Perez
 description: Alone in the fields
 plugins: ['jekyll-include-cache']
+minimal_mistakes_skin: 'dark'
