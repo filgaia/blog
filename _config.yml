@@ -7,6 +7,7 @@ url: "https://filgaia.github.io"
 baseurl: "/blog"
 repository: "filgaia/blog"
 plugins: ["jekyll-include-cache"]
+include: ["_pages"]
 minimal_mistakes_skin: "dark"
 search: true
 
@@ -53,3 +54,13 @@ defaults:
       share: true
       related: true
       show_date: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
