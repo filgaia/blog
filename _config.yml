@@ -2,3 +2,4 @@ theme: minima
 title: Filgaia
 author: Filgaia
 description: Alone in the fields
+plugins: ['jekyll-include-cache']
