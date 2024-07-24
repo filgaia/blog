@@ -1,5 +1,5 @@
 remote_theme: 'mmistakes/minimal-mistakes@4.26.2'
 title: Filgaia
-author: Filgaia
+author: A. F. Perez
 description: Alone in the fields
 plugins: ['jekyll-include-cache']
