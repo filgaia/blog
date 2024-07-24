@@ -1,19 +1,21 @@
 ---
-title: "Mi experiencia solicitando la Visa Americana"
+excerpt: "Mi experiencia solicitando la Visa Americana"
 date: 2023-01-04
 header:
-  image: /assets/images/post.jpg
+  overlay_image: /assets/images/post.jpg
+  overlay_filter: 0.5
 ---
 
 Empecemos con lo importante: Me negaron la visa americana. Ahora que sabes que este texto no te va a indicar como obtener la visa americana, quiero contarte mi experiencia para que seas tu quien decida si quiere hacer este proceso.
 
 Obtener la visa americana es un proceso de varios pasos, te voy a contar acerca de ellos y trataré de desmitificar la información que no vi en ningún lado antes de llegar allá.
 
-### Llenar el formulario DS-160
+# Llenar el formulario DS-160
+
 El formato como tal no tiene mucha ciencia, si quieres sentirte mas seguro, puedes pedir el apoyo de un experto o agencias que te cobrarán un dinero pero te ayudarán con esto. Sin embargo, ten en cuenta que el formato solo te pide información personal y laboral, nada del otro mundo. Eso si, el sitio web para llenarlo deja mucho que desear, necesitarás mucha paciencia ya que cada 15 minutos eliminará tu sesión interactúes o no con el formato.
 
 
-### Solicitud de cita
+# Solicitud de cita
 
 Acá es donde las cosas se ponen interesantes:
 
@@ -26,11 +28,11 @@ Si vives fuera de Bogotá, debes sumarle valores de viaje y hospedaje ya que act
 
 Hay personas que pueden ayudarte a adelantar la cita, pero lo único que hacen es entrar al sitio web y verificar si se abrió una fecha anterior. Esto lo puedes hacer tu mismo pero es un proceso lento y dispendioso.
 
-### Toma de huellas
+# Toma de huellas
 
 No tiene mucha ciencia. Vas, te toman las huellas, eres feliz.
 
-### Entrevista
+# Entrevista
 
 Aquí se define todo: Te dan la visa o no. En la entrevista hay varios pasos:
 

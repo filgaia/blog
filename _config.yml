@@ -1,11 +1,43 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 title: "Filgaia"
+title_separator: "|"
 subtitle: "Alone in the fields"
+name: "A. F. Perez"
+url: "https://filgaia.github.io"
+baseurl: "/blog"
+repository: "filgaia/blog"
+plugins: ["jekyll-include-cache"]
+minimal_mistakes_skin: "dark"
+search: true
+
 author:
   name: "A. F. Perez"
   location: "Somewhere, Colombia"
-plugins: ["jekyll-include-cache"]
-minimal_mistakes_skin: "dark"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "self-taught writer, passionate about fantasy stories, Nordic mythology, Japanese animation and visual novels"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/filgaiaco/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/alejandroasp/"
+    - label: "Xbox"
+      icon: "fab fa-fw fa-xbox"
+      url: "https://www.trueachievements.com/gamer/Yorha+agent"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/filgaia"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@filgaiaco"
+    - label: "Mercadolibre"
+      icon: "fab fa-fw fa-shopify"
+      url: "https://filgaia.mercadoshops.com.co"
+    
 
 defaults:
   # _posts
@@ -14,8 +46,10 @@ defaults:
       type: posts
     values:
       layout: single
+      toc: true
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      show_date: true
