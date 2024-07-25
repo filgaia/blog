@@ -1,0 +1,29 @@
+---
+title: "CAPÍTULO III"
+permalink: /ht-c3/
+excerpt: "UN EXISTIR INSIGNIFICANTE"
+header:
+  overlay_image: /assets/images/post.jpg
+  overlay_filter: 0.5
+---
+
+“Mi vida, incierta… Mis amigos, los insectos... En quienes no confío, los humanos. Seres capaces de pensar, de amar y traicionar...”
+
+Pablo... Un hombre de 24 años, vivía en los bosques del noroccidente, sin nunca salir de su zona, protegiéndola de cualquiera que intentara acabar con su hogar... Posee una barba roja bastante gruesa y notoria; por lo general le gusta andar con su hacha, botas altas y camisa roja de cuadros. Su fuerza y tamaño descomunal terminaba en la mayoría de ocasiones asustando a todos aquellos que intentaban acabar con el bosque antes de que Pablo pudiera hacer algo para protegerlo...
+ 
+Por lo general contaba con amigos pequeños... podría decirse que es una persona de un gran poder ya que su experiencia en la lucha lo vuelven un enemigo formidable contra cualquiera que se interpusiera en su camino... Su problema: La desconfianza encarnada en el abandono de sus padres en aquel bosque que le originó un problema con los humanos. Por esto, ahora los odia y su sola presencia lo irrita, contradictorio por su raza de procedencia, pero al ser educado por elfos tuvo esa percepción...
+ 
+En uno de esos días en que caminaba por el bosque, el cual estaba vacío desde hace algunas semanas, sintió que algo extraño podría llegar al lugar, algo que nunca había experimentado...
+Los elfos del bosque había desaparecido misteriosamente solo quedaba él, los animales y sus insectos...
+Cuando caminaba comenzó a sentir una presencia rara... Lo único que se le ocurrió fue agitar su hacha con fuerza… Se escuchaba como quebrantaba el viento con solo moverla y mientras lo hacía gritaba: - “¡Aléjense de mi bosque quienquiera que sea antes de ser destruidos por mí! ¡No se atrevan a tocarlo!”
+ 
+La sombra y energía extraña que lo rodeaba desapareció... Todo quedó en un silencio y vacío absoluto... Más de lo que era costumbre. Tomando todo con calma se sintió a salvo y siguió su camino, para toparse con una hormiga, pero no cualquier hormiga. 
+
+La reina del bosque, con 7 metros de alto, 14 metros de largo y una fuerza que incluso para el mismo guardabosque le era imposible enfrentar...
+Muy confiado en su amiga él se acercó a ella cuando recibe un golpe que lo lanza contra un roble... El árbol permanece en pie, no se cae, pero el golpe podría haber matado a un hombre normal, pero Pablo no era normal... 
+Incorporándose se pregunta: - “¿Por qué? Yo confiaba en ti…”
+ 
+Intenta hablarle pero la hormiga con más ferocidad lo hace alejar y lo observa como un extraño en el lugar donde ella creció, lo mira como un total desconocido... 
+Pablo sintiéndose desconsolado y triste, se deja llevar por su sentido de supervivencia y escapa del bosque perdiendo a su más fiel aliada...
+ 
+Con muchas dudas encima, se retira camino al norte, pues decían que los elfos podrían estar detrás de los montes de Mithril, los cuales se encontraban al norte. Los elfos de este lugar eran los únicos en los que Pablo podía encontrar respuestas... No estaba tan lejos de la verdad...

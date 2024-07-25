@@ -68,4 +68,3 @@ Para mi, algo ya cambio, y eso es, el destino de mi viaje.
 Si uno tiene depender del la decisión arbitraria de una persona para entrar a un país, prefiero no visitarlo.
 
 Espero esta información te sirva para decidir si haces todo este proceso, y si no, recuerda, el mundo es muy grande y muchos otros lugares merecen de tu presencia.
-
