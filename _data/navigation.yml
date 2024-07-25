@@ -1,0 +1,11 @@
+holy-tale:
+  - title: "Holy Tale"
+    children:
+      - title: "Prólogo"
+        url: "/ht-prologo/"
+
+      - title: "Capítulo I"
+        url: "/ht-c1/"
+
+      - title: "Capitulo II"
+        url: "/ht-c2/"

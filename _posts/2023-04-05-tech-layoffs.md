@@ -1,6 +1,5 @@
 ---
 excerpt: "Opinion"
-date: 2023-04-05
 header:
   overlay_image: /assets/images/post.jpg
   overlay_filter: 0.5

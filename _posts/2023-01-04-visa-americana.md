@@ -1,6 +1,5 @@
 ---
 excerpt: "Mi experiencia solicitando la Visa Americana"
-date: 2023-01-04
 header:
   overlay_image: /assets/images/post.jpg
   overlay_filter: 0.5

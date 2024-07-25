@@ -1,7 +1,7 @@
 ---
-title: "CAPÍTULO I: LA HISTORIA DE UN PALADÍN"
+title: "CAPÍTULO I"
 permalink: /ht-c1/
-excerpt: ""
+excerpt: "LA HISTORIA DE UN PALADÍN"
 header:
   overlay_image: /assets/images/post.jpg
   overlay_filter: 0.5
