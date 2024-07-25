@@ -1,6 +1,6 @@
 ---
 title: "EPÍLOGO"
-permalink: /ht-c30/
+permalink: /ht-epilogo/
 excerpt: ""
 header:
   overlay_image: /assets/images/post.jpg

@@ -6,10 +6,12 @@ name: "A. F. Perez"
 url: "https://filgaia.github.io"
 baseurl: "/blog"
 repository: "filgaia/blog"
-plugins: ["jekyll-include-cache"]
+plugins: ["jekyll-include-cache", "jekyll-paginate"]
 include: ["_pages"]
 minimal_mistakes_skin: "dark"
 search: true
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
 
 author:
   name: "A. F. Perez"
